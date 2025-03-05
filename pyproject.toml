@@ -26,7 +26,7 @@ Changelog = "https://github.com/nonebot/noneflow/blob/main/CHANGELOG.md"
 
 [tool.uv]
 dev-dependencies = [
-  "bump-my-version>=0.29.0",
+  "bump-my-version>=1.0.1",
   "inline-snapshot>=0.19.3",
   "nonebug>=0.4.3",
   "poethepoet>=0.32.1",
